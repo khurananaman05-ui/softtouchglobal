@@ -1,0 +1,10 @@
+<svg width="900" height="640" viewBox="0 0 900 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="640" fill="#F4F7F8"/>
+  <rect x="54" y="52" width="792" height="536" rx="36" fill="#FFFFFF"/>
+  <rect x="200" y="165" width="230" height="240" rx="38" fill="#F7F1EA"/>
+  <rect x="470" y="180" width="210" height="210" rx="34" fill="#D7E8F0"/>
+  <path d="M230 350C250 320 290 286 348 248" stroke="#C9B6A6" stroke-width="18" stroke-linecap="round"/>
+  <path d="M505 332C536 298 576 272 624 252" stroke="#BFD6E0" stroke-width="18" stroke-linecap="round"/>
+  <rect x="180" y="446" width="230" height="44" rx="22" fill="#E9DED1"/>
+  <text x="180" y="120" fill="#163042" font-family="Georgia, serif" font-size="46" font-weight="700">Hand Towels</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg width="900" height="640" viewBox="0 0 900 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="640" fill="#F4F7F8"/>
+  <rect x="54" y="52" width="792" height="536" rx="36" fill="#FFFFFF"/>
+  <rect x="180" y="175" width="170" height="230" rx="34" fill="#E9DED1"/>
+  <rect x="370" y="155" width="170" height="250" rx="34" fill="#D7E8F0"/>
+  <rect x="560" y="190" width="170" height="215" rx="34" fill="#F4ECE3"/>
+  <path d="M214 366C242 334 278 312 314 298" stroke="#FFFFFF" stroke-width="16" stroke-linecap="round"/>
+  <path d="M402 352C432 322 466 298 506 282" stroke="#FFFFFF" stroke-width="16" stroke-linecap="round"/>
+  <path d="M598 362C624 334 660 312 696 298" stroke="#FFFFFF" stroke-width="16" stroke-linecap="round"/>
+  <rect x="180" y="470" width="240" height="44" rx="22" fill="#D7E8F0"/>
+  <text x="180" y="120" fill="#163042" font-family="Georgia, serif" font-size="46" font-weight="700">Textile Products</text>
+</svg>

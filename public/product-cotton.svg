@@ -1,0 +1,13 @@
+<svg width="900" height="640" viewBox="0 0 900 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="640" fill="#F4F7F8"/>
+  <rect x="54" y="52" width="792" height="536" rx="36" fill="#FFFFFF"/>
+  <circle cx="310" cy="285" r="70" fill="#FFFFFF"/>
+  <circle cx="380" cy="255" r="72" fill="#FFFFFF"/>
+  <circle cx="452" cy="285" r="70" fill="#FFFFFF"/>
+  <path d="M380 430V330" stroke="#C9B6A6" stroke-width="12" stroke-linecap="round"/>
+  <path d="M380 410L330 360" stroke="#C9B6A6" stroke-width="12" stroke-linecap="round"/>
+  <path d="M380 390L430 345" stroke="#C9B6A6" stroke-width="12" stroke-linecap="round"/>
+  <rect x="520" y="210" width="170" height="200" rx="34" fill="#D7E8F0"/>
+  <rect x="180" y="470" width="230" height="44" rx="22" fill="#E9DED1"/>
+  <text x="180" y="120" fill="#163042" font-family="Georgia, serif" font-size="46" font-weight="700">Cotton Towels</text>
+</svg>

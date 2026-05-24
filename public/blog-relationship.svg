@@ -1,0 +1,9 @@
+<svg width="900" height="640" viewBox="0 0 900 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="640" fill="#F4F7F8"/>
+  <rect x="70" y="60" width="760" height="520" rx="38" fill="#FFFFFF"/>
+  <circle cx="300" cy="280" r="78" fill="#D7E8F0"/>
+  <circle cx="470" cy="280" r="78" fill="#E9DED1"/>
+  <path d="M354 286H416" stroke="#163042" stroke-width="10" stroke-linecap="round"/>
+  <path d="M380 260L418 286L380 312" stroke="#163042" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="160" y="140" fill="#163042" font-family="Georgia, serif" font-size="44" font-weight="700">Buyer Relationships</text>
+</svg>
