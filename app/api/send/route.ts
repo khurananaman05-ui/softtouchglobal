@@ -10,8 +10,8 @@ export async function POST(req: Request) {
     const { name, company, email, phone, product, quantity, message } = body;
 
     await resend.emails.send({
-      from: "Soft Touch Global <onboarding@resend.dev>",
-      to: "info@softtouchglobal.com",
+      from: "Soft Touch Global <info@softtouchglobal.com>",
+      to: ["info@softtouchglobal.com"],
       subject: `New Website Inquiry from ${name}`,
       html: `
         <h2>New Website Inquiry</h2>
